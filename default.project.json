@@ -1,0 +1,26 @@
+{
+  "name": "basicstate-inspector",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+
+      "basicstate-inspector": {
+        "$path": "src",
+
+        "Lib": {
+          "$className": "Folder",
+
+          "BasicState": {
+            "$path": "modules/basicstate/src"
+          },
+
+          "Roact": {
+            "$path": "modules/roact/src"
+          }
+        }
+      }
+    }
+  }
+}
