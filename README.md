@@ -1,4 +1,4 @@
-[<img src="/assets/bsi-plugin-thumb.png" align="left" width="96" height="96" />][download]
+<img src="/assets/bsi-plugin-thumb.png" align="left" width="96" height="96" />
 
 # [BasicState Inspector][download]
 A plugin for viewing and modifying [BasicState][basicstate] instances using a GUI.
